@@ -1,4 +1,4 @@
-
+# 负索引表示从末尾开始，-1 表示最后一个项目，-2 表示倒数第二个项目，依此类推。
 friends = ["Kevin", "Karen", "Jim", "Jam", "Landy"]
 
 print(friends)
